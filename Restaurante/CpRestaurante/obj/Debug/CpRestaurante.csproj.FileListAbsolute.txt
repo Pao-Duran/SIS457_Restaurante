@@ -1,0 +1,97 @@
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe.config
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.pdb
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\EntityFramework.dll
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.pdb
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll.config
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.pdb
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll.config
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\EntityFramework.xml
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.AssemblyReference.cache
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmPrincipal.resources
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.Properties.Resources.resources
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.GenerateResource.cache
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CoreCompileInputs.cache
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CopyComplete
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.pdb
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.dll
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.dll
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.xml
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.xml
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe.licenses
+E:\SIS 457 - Proyecto\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmLogin.resources
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.AssemblyReference.cache
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmLogin.resources
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmPrincipal.resources
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.Properties.Resources.resources
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.GenerateResource.cache
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe.licenses
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CoreCompileInputs.cache
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe.config
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\EntityFramework.dll
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.pdb
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll.config
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\EntityFramework.xml
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CopyComplete
+C:\Sis 457 Informatica\Proyecto Restaurant\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FormCliente.resources
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe.config
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.exe
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CpRestaurante.pdb
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.5.2.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.5.2.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\EntityFramework.dll
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.pdb
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\CadRestaurante.dll.config
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.pdb
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\ClnRestaurante.dll.config
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.4.5.2.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Command.4.5.2.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Input.4.5.2.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\C1.Win.C1Ribbon.4.5.2.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\bin\Debug\EntityFramework.xml
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.AssemblyReference.cache
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FormCliente.resources
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmLogin.resources
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.FrmPrincipal.resources
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.Properties.Resources.resources
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.GenerateResource.cache
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe.licenses
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CoreCompileInputs.cache
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.csproj.CopyComplete
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.exe
+E:\proyecto, recuperar\sis457-Restaurante\Restaurante\CpRestaurante\obj\Debug\CpRestaurante.pdb
